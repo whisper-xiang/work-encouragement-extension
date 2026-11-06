@@ -8,7 +8,7 @@
     "description": "Short name used where space is limited."
   },
   "appDesc": {
-    "message": "See what you have earned today in real time — salary counter, countdown to log-off, overtime multipliers, and weekly/monthly earning curves.",
+    "message": "See today’s earnings in real time — salary counter, log-off countdown, overtime multipliers, and weekly/monthly curves.",
     "description": "Extension description shown in the Chrome Web Store."
   }
 }
